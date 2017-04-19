@@ -1,0 +1,3 @@
+baseurl: /labs
+exclude: ["README.md"]
+permalink: pretty
